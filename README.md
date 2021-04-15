@@ -1,5 +1,5 @@
 <!-- head -->
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Welcome%20to%20JS's%20Github!👋&fontSize=50)
+ ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Welcome%20to%20JS's%20Github!👋&fontSize=50)
  
 <!-- 방문자 카운팅 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fno0683&count_bg=%231251CF&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
