@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 깃헙 스탯평가 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0683&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0683&show_icons=true&theme=merko)
 
 <!-- 방문자 카운팅 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fno0683&count_bg=%230300FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
