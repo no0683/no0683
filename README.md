@@ -12,12 +12,13 @@
 <!-- 기술스택 -->
 ## :muscle: My skills
 
-` `
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=github.com/no0683">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&link=github.com/no0683">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=github.com/no0683">
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white&link=github.com/no0683">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=github.com/no0683"> 웹표준과 접근성을 준수하여 마크업 합니다.
 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&link=github.com/no0683"> 기본적인 css 스타일 사용과 반응형,애니메이션을 다룰줄 압니다.
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=github.com/no0683"> 기본적인 자바스크립트의 문법을 이해하고 있습니다.
+
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white&link=github.com/no0683"> 효율적인 웹앱을 만들기위해 공부중입니다.
 
 
 
