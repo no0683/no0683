@@ -12,13 +12,17 @@
 <!-- 기술스택 -->
 ## :muscle: My skills
 
+### Publishing
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=github.com/no0683"> 웹표준과 접근성을 준수하여 마크업 합니다.
 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&link=github.com/no0683"> 기본적인 css 스타일 사용과 반응형,애니메이션을 다룰줄 압니다.
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=github.com/no0683"> 기본적인 자바스크립트의 문법을 이해하고 있습니다.
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white&link=github.com/no0683"> 효율적인 웹앱을 만들기위해 공부중입니다.
+### Front-end
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white&link=github.com/no0683"> 컴포넌트단위로 코드를 효율적으로 다루고 ajax 및 redux와 연계 할 수 있습니다.
+
+<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=redux&logoColor=white&link=github.com/no0683"> 단일 store로 컴포넌트들을 효율적으로 관리하며 redux의 작동원리를 이해하고있습니다.
 
 
 
