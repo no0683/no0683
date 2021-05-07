@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=github.com/no0683"> 기본적인 자바스크립트의 문법을 이해하고 있습니다.
 
 ### Front-end
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white&link=github.com/no0683"> 컴포넌트단위로 코드를 효율적으로 다루고 ajax 및 redux와 연계 할 수 있습니다.
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white&link=github.com/no0683"> Component, Hook, Router를 이용한 간단한 웹페이지 제작이 가능 합니다.
 
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=redux&logoColor=white&link=github.com/no0683"> 단일 store로 컴포넌트들을 효율적으로 관리하며 redux의 작동원리를 이해하고있습니다.
 
